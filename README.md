@@ -5,3 +5,5 @@ Step 3 of the Tutorial: Make and commit changes.
 Editted through Source Tree on Local Machine
 
 Test Commit Again to SourceTree Branch
+
+Test Commit from SourceTree after Merge to Master
